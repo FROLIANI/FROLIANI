@@ -1,5 +1,5 @@
 <a href="https://wa.me/255624023240">
-<img align="right" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<img align="right" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius: 5px;">
 </a>
 
 <h1 align="center">
