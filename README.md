@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/frolian-ernest-9b0674246/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/FROLIANI" target="_blank">
+  <a href="https://frolian.solo.co.tz" target="_blank">
      <img src="https://frolian.solo.co.tz/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
