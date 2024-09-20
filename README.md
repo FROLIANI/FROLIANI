@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Frolian+Ernest!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Tanzania </h3>
+<h3 align="center">A Passionate Software Developer from Tanzania </h3>
 
 <br/>
 
@@ -18,9 +18,9 @@
  
  🌱 I’m currently learning **Node js, Vue js, and  Flutter**
 
-💬 Ask me about **React Native, php, Firebase... or anything [here]((https://github.com/FROLIANI))**
+💬 Ask me about **React Native, php, Firebase,Hygraph... or anything [here]((https://github.com/FROLIANI))**
 
-⚡ Fun fact **Adventure,Take a walk **
+⚡ Fun fact **Adventure,Take a walk **,**Read Books
 
  </div>
  
