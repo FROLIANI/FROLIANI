@@ -44,7 +44,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,java,mysql,wordpress" /><br>
 </div>
 
-<br/>
 <hr/>
 
 <div align="center">
