@@ -16,7 +16,7 @@
  
  🔭 I’m currently working on **Software Development**
  
- 🌱 I’m currently learning ** Pthon , and  Flutter**
+ 🌱 I’m currently learning ** Python  and  Flutter **
 
 💬 Ask me about **React js, vue, Laravel, Node... or anything [here]((https://github.com/FROLIANI))**
 
