@@ -16,9 +16,9 @@
  
  🔭 I’m currently working on **Software Development**
  
- 🌱 I’m currently learning **Node js, Vue js, and  Flutter**
+ 🌱 I’m currently learning ** Pthon , and  Flutter**
 
-💬 Ask me about **React Native, php, Firebase,Hygraph... or anything [here]((https://github.com/FROLIANI))**
+💬 Ask me about **React js, vue, Laravel, Node... or anything [here]((https://github.com/FROLIANI))**
 
 ⚡ Fun fact **Adventure,Take a walk **,**Read Books
 
