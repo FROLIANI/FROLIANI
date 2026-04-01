@@ -99,19 +99,11 @@ Currently working at **Rahisi Solution Ltd**, where I deliver production-grade p
   <table>
     <tr>
       <td align="center" width="180">
-        <a href="https://github.com/swahilipot" target="_blank">
-          <img src="https://github.com/swahilipot.png" width="80" height="80" style="border-radius:12px;" alt="Swahili"/>
-        </a>
-        <br/><br/>
         <strong>Swahili</strong>
         <br/>
         <sub>Open source & tech community</sub>
       </td>
       <td align="center" width="180">
-        <a href="https://github.com/rahisisolution" target="_blank">
-          <img src="https://github.com/rahisisolution.png" width="80" height="80" style="border-radius:12px;" alt="Rahisi Solution Ltd"/>
-        </a>
-        <br/><br/>
         <strong>Rahisi Solution Ltd</strong>
         <br/>
         <sub>Software solutions · Zanzibar, Tanzania</sub>
