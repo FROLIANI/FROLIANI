@@ -78,8 +78,7 @@ Currently working at **Rahisi Solution Ltd**, where I deliver production-grade p
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FROLIANI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FROLIANI&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=FROLIANI&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -92,6 +91,7 @@ Currently working at **Rahisi Solution Ltd**, where I deliver production-grade p
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FROLIANI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies"/>
+
 </div>
 
 ---
