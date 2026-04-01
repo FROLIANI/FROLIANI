@@ -75,24 +75,63 @@ Currently working at **Rahisi Solution Ltd**, where I deliver production-grade p
 
 ---
 
-## 📊 GitHub Stats
+## 🏅 GitHub Achievements
 
 <div align="center">
-<img src="https://img.shields.io/github/followers/FROLIANI?style=for-the-badge&theme=tokyonight&color=0077B5"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FROLIANI&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <table>
+    <tr>
+      <td align="center" width="160">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" height="80" alt="Pull Shark"/>
+        <br/><br/>
+        <strong>Pull Shark 🦈</strong>
+        <br/>
+        <sub>Opened pull requests that have been merged</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏢 Organizations
 
 <div align="center">
- <img src="https://img.shields.io/github/stars/FROLIANI?style=for-the-badge&color=FFD700"/>
+  <table>
+    <tr>
+      <td align="center" width="180">
+        <a href="https://github.com/swahilipot" target="_blank">
+          <img src="https://github.com/swahilipot.png" width="80" height="80" style="border-radius:12px;" alt="Swahili"/>
+        </a>
+        <br/><br/>
+        <strong>Swahili</strong>
+        <br/>
+        <sub>Open source & tech community</sub>
+      </td>
+      <td align="center" width="180">
+        <a href="https://github.com/rahisisolution" target="_blank">
+          <img src="https://github.com/rahisisolution.png" width="80" height="80" style="border-radius:12px;" alt="Rahisi Solution Ltd"/>
+        </a>
+        <br/><br/>
+        <strong>Rahisi Solution Ltd</strong>
+        <br/>
+        <sub>Software solutions · Zanzibar, Tanzania</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/FROLIANI?style=for-the-badge&color=0077B5" alt="Followers"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=FROLIANI&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
