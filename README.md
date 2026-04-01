@@ -78,7 +78,8 @@ Currently working at **Rahisi Solution Ltd**, where I deliver production-grade p
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=FROLIANI&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://img.shields.io/github/followers/FROLIANI?style=for-the-badge&theme=tokyonight&color=0077B5"/>
+
 </div>
 
 <div align="center">
@@ -90,7 +91,7 @@ Currently working at **Rahisi Solution Ltd**, where I deliver production-grade p
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FROLIANI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies"/>
+ <img src="https://img.shields.io/github/stars/FROLIANI?style=for-the-badge&color=FFD700"/>
 
 </div>
 
