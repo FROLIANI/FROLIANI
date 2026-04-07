@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Software Developer current based in **Zanzibar, Tanzania**, with a BSc in Information Technology & Systems from **Mzumbe University**. I specialize in building end-to-end web applications — from intuitive, animated frontends to robust, well-structured backend systems.
+I'm a Full Stack Software Developer current living in **Zanzibar, Tanzania**, with a BSc in Information Technology & Systems from **Mzumbe University**. I specialize in building end-to-end web applications — from intuitive, animated frontends to robust, well-structured backend systems.
 
 Currently working at **Rahisi Solution Ltd**, where I deliver production-grade portals and enterprise dashboards for government and institutional clients across Tanzania.
 
