@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Frolian+Ernest!;Full+Stack+Developer;Building+from+Dar es salaam+🇹🇿" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Frolian+Ernest!;Full+Stack+Developer;Building+from+Dar+es+salaam+🇹🇿" />
 </div>
 
 <h3 align="center">
@@ -22,7 +22,7 @@
 
 I'm a Full Stack Software Developer current living in **Dar es salaam, Tanzania**, with a BSc in Information Technology & Systems from **Mzumbe University**. I specialize in building end-to-end web applications — from intuitive, animated frontends to robust, well-structured backend systems.
 
-Currently working at **Rahisi Solution Ltd**, where I deliver production-grade portals and enterprise dashboards for government and institutional clients across Tanzania.
+Currently working at **Muhimbili University of Health and Allied Sciences (MUHAS)**, where I deliver production-grade software solutions, portals, and enterprise systems.
 
 - 🔭 &nbsp;Currently building full-stack platforms with **React**, **Vue.js**, and **Laravel**
 - 🌱 &nbsp;Expanding my toolkit with **Python** and **Flutter**
@@ -104,9 +104,9 @@ Currently working at **Rahisi Solution Ltd**, where I deliver production-grade p
         <sub>Open source & tech community</sub>
       </td>
       <td align="center" width="180">
-        <strong>Rahisi Solution Ltd</strong>
+        <strong>Muhimbili University of Health and Allied Sciences (MUHAS)</strong>
         <br/>
-        <sub>Software solutions · Zanzibar, Tanzania</sub>
+        <sub>Software development · Dar es Salaam, Tanzania</sub>
       </td>
     </tr>
   </table>
@@ -151,5 +151,5 @@ Currently working at **Rahisi Solution Ltd**, where I deliver production-grade p
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=FROLIANI&style=flat-square&color=0077B5" alt="Profile Views"/>
   <br/>
-  <sub>© 2025 Frolian Ernest · Zanzibar, Tanzania 🇹🇿</sub>
+  <sub>© 2025 Frolian Ernest · Dar es Salaam, Tanzania 🇹🇿</sub>
 </div>
