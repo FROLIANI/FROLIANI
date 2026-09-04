@@ -5,11 +5,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Frolian+Ernest!;Full+Stack+Developer;Building+from+Zanzibar+🇹🇿" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Frolian+Ernest!;Full+Stack+Developer;Building+from+Dar es salaam+🇹🇿" />
 </div>
 
 <h3 align="center">
-  Full Stack Software Developer · Zanzibar, Tanzania
+  Full Stack Software Developer · Dar es salaam, Tanzania
 </h3>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Software Developer current living in **Zanzibar, Tanzania**, with a BSc in Information Technology & Systems from **Mzumbe University**. I specialize in building end-to-end web applications — from intuitive, animated frontends to robust, well-structured backend systems.
+I'm a Full Stack Software Developer current living in **Dar es salaam, Tanzania**, with a BSc in Information Technology & Systems from **Mzumbe University**. I specialize in building end-to-end web applications — from intuitive, animated frontends to robust, well-structured backend systems.
 
 Currently working at **Rahisi Solution Ltd**, where I deliver production-grade portals and enterprise dashboards for government and institutional clients across Tanzania.
 
